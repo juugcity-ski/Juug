@@ -1,0 +1,7 @@
+{
+  "name": "The Juug Translator",
+  "description": "A real-time, high-performance voice-to-voice translator between Spanish and English powered by Gemini 2.5 Flash Native Audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
